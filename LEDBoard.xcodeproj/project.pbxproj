@@ -13,6 +13,7 @@
 		42A3DF112861E408007EE8A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42A3DF0F2861E408007EE8A2 /* Main.storyboard */; };
 		42A3DF132861E409007EE8A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42A3DF122861E409007EE8A2 /* Assets.xcassets */; };
 		42A3DF162861E409007EE8A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42A3DF142861E409007EE8A2 /* LaunchScreen.storyboard */; };
+		42A3DF202862DCE2007EE8A2 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A3DF1F2862DCE2007EE8A2 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		42A3DF122861E409007EE8A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42A3DF152861E409007EE8A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42A3DF172861E409007EE8A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42A3DF1F2862DCE2007EE8A2 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				42A3DF122861E409007EE8A2 /* Assets.xcassets */,
 				42A3DF142861E409007EE8A2 /* LaunchScreen.storyboard */,
 				42A3DF172861E409007EE8A2 /* Info.plist */,
+				42A3DF1F2862DCE2007EE8A2 /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				42A3DF0E2861E408007EE8A2 /* ViewController.swift in Sources */,
 				42A3DF0A2861E408007EE8A2 /* AppDelegate.swift in Sources */,
 				42A3DF0C2861E408007EE8A2 /* SceneDelegate.swift in Sources */,
+				42A3DF202862DCE2007EE8A2 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
